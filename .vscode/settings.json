@@ -1,3 +1,23 @@
 {
-    "liveServer.settings.port": 5502
+  "liveServer.settings.port": 5503,
+  "cSpell.words": [
+    "alternar",
+    "añadido",
+    "botón",
+    "caracteres",
+    "clic",
+    "Configurar",
+    "estado",
+    "evento",
+    "favorito",
+    "favoritos",
+    "Función",
+    "inicial",
+    "manejar",
+    "Obtener",
+    "pageinfo",
+    "quitado",
+    "servicioapi",
+    "unknow"
+  ]
 }
